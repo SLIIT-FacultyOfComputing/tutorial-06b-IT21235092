@@ -5,6 +5,7 @@
 using namespace std;
 
 // Assign studentId and name
+
 void Student::assignDetails(int ID, char name[]) 
 {
   studentId=ID;

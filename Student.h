@@ -12,6 +12,5 @@ class Student
   //    assignDetails() method declaration
           void assignDetails(int ID, char name[]);
   //    display() method declaration
-          void display();
-          
+          void display();  
 };
