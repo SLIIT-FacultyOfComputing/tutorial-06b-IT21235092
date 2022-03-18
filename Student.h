@@ -3,6 +3,7 @@ class Student
   // private section
   private:
   //    int studentId
+
           int studentId;
   //    name <- 20 charcters
           char studentName[20];
@@ -10,6 +11,7 @@ class Student
   // public section
   public:
   //    assignDetails() method declaration
+
           void assignDetails(int ID, char name[]);
   //    display() method declaration
           void display();  

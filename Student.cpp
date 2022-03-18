@@ -9,6 +9,7 @@ using namespace std;
 void Student::assignDetails(int ID, char name[]) 
 {
   studentId=ID;
+  
   strcpy(studentName,name);
   
 }

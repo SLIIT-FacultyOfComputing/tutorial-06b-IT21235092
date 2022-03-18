@@ -10,6 +10,7 @@ int main() {
   
    // ======= DO NOT CHANGE THE INPUT ===========
    int height, length, width;
+  
    cout << "Enter the Height of the Box : ";
    cin >> height;
    cout << "Enter the Length of the Box : ";
